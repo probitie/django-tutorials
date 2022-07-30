@@ -1,0 +1,104 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="@click" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="router-view" />
+            <item index="7" class="java.lang.String" itemvalue="router-link" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="chromedriver" />
+            <item index="1" class="java.lang.String" itemvalue="numpy" />
+            <item index="2" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="3" class="java.lang.String" itemvalue="pywin32" />
+            <item index="4" class="java.lang.String" itemvalue="wget" />
+            <item index="5" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="6" class="java.lang.String" itemvalue="crayons" />
+            <item index="7" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="8" class="java.lang.String" itemvalue="pefile" />
+            <item index="9" class="java.lang.String" itemvalue="pyinstaller-hooks-contrib" />
+            <item index="10" class="java.lang.String" itemvalue="chardet" />
+            <item index="11" class="java.lang.String" itemvalue="dukpy" />
+            <item index="12" class="java.lang.String" itemvalue="future" />
+            <item index="13" class="java.lang.String" itemvalue="pywin32-ctypes" />
+            <item index="14" class="java.lang.String" itemvalue="macropy3" />
+            <item index="15" class="java.lang.String" itemvalue="soupsieve" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E211" />
+          <option value="E501" />
+          <option value="E127" />
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N813" />
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="next" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.AUTHORISATION_KEY" />
+          <option value="OrdersParser" />
+          <option value="login_data" />
+          <option value="project.service.configmanager.configmanager._ConfigWrapper.*" />
+          <option value="object.*" />
+          <option value="work_mode" />
+          <option value="logging_level" />
+          <option value="tests.engine.apps.checkorders.checkorders.CheckOrdersTestCase.driver" />
+          <option value="backend.adminpanelapp.models.RegisteredUser.*" />
+          <option value="blog.models.Post.objects" />
+          <option value="django.http.request.HttpRequest.user" />
+          <option value="blog.models.Comment.objects" />
+          <option value="accounts.models.Profile.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

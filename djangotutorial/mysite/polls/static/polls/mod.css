@@ -1,0 +1,8 @@
+body {
+    background: white url("images/background.gif") no-repeat;
+}
+
+li a {
+    color: red;
+    background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+}

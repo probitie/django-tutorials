@@ -1,0 +1,9 @@
+py manage.py runserver
+py manage.py makemigrations women
+py manage.py migrate
+py manage.py test accounts
+python manage.py test accounts.tests.test_urls
+python manage.py test accounts.tests.test_urls.UrlTest.test_EditProfileView
+py manage.py createsuperuser
+admin
+smstudio1000@gmail.com
